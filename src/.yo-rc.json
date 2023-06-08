@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "TeamsAppDevelop",
+    "environment": "spo",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "TeamsAppDevelop",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "teams-app-develop",
+    "libraryId": "9fb58215-2390-44e9-a934-4f0c2f9367a3",
+    "packageManager": "npm",
+    "solutionShortDescription": "TeamsAppDevelop description"
+  }
+}

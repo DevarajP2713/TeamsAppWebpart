@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "teams-app-develop-client-side-solution",
+    "id": "9fb58215-2390-44e9-a934-4f0c2f9367a3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TeamsAppDevelop description"
+      },
+      "longDescription": {
+        "default": "TeamsAppDevelop description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "teams-app-develop Feature",
+        "description": "The feature that activates elements of the teams-app-develop solution.",
+        "id": "e1408294-9d25-49e9-87b3-b99754cbf448",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/teams-app-develop.sppkg"
+  }
+}
